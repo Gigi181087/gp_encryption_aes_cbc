@@ -1,0 +1,9 @@
+[submodule "src/Submodules/gp_encryption_padding"]
+	path = src/Submodules/gp_encryption_padding
+	url = https://github.com/Gigi181087/gp_encryption_padding.git
+[submodule "src/Submodules/gp_aes_encryption"]
+	path = src/Submodules/gp_aes_encryption
+	url = https://github.com/Gigi181087/gp_aes_encryption
+[submodule "src/Submodules/gp_encryption_aes_key_management"]
+	path = src/Submodules/gp_encryption_aes_key_management
+	url = https://github.com/Gigi181087/gp_encryption_aes_key_management.git
